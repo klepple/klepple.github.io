@@ -1,3 +1,6 @@
+# My Website!
+I am expanding my understanding of css and html by customizing my own website! As you can see, I've started with a basic bootstrap template and expanded from there. The site is under constant improvement and can be found at [klepple.github.io](https://klepple.github.io/)
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
