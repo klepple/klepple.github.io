@@ -326,14 +326,14 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #CAA4CE;
   background: white;
   border: solid 2px white;
 }
 .btn-primary {
   color: white;
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #1C3D5E;
+  border-color: #1C3D5E;
   font-weight: 700;
 }
 .btn-primary:hover,
